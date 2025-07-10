@@ -1,5 +1,3 @@
-import React from 'react';
-
 function Work() {
   return (
     <div className="min-h-screen pt-20">

@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'
-import React from 'react'
 import { FaSun, FaMoon } from 'react-icons/fa'  // import iconițe
 import Navbar from './Navbar'
 import Home from './Home'

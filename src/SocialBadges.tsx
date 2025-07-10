@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { FaLinkedin, FaInstagram, FaFacebook, FaTimes } from 'react-icons/fa'
 import cvThumbnail from './assets/cv-thumbnail.png'  // înlocuiește cu miniatura ta
 import cvFile from './assets/cv-theo.pdf'           // CV-ul tău
