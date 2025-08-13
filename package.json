@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Lika2002.github.io/Theo",
+  "homepage": "https://lika2002.github.io/TheoChef/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
